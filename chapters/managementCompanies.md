@@ -10,5 +10,7 @@ Clicking on a company name, you can see the button to remove it from Maas.
 Clicking on a company name, you can view all its members, add one or remove it.
 
 ## Add member to a company
+To open this page, you need to click on the company's name in the Show Companies page.
+As illustrated in Figure 3, you will be asked to enter an e-mail (1) , a password (2) and click the Sign in button (3). After the authentication process is finished, the user is redirected to the dashboard. 
 ![](../img/addMemberToCompany.png)
 
