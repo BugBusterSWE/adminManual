@@ -20,8 +20,6 @@ the following points:
 4. The error code, if displayed;
 5. Any additional note that could be useful to the understanding of the problem.
 
-
-
 ## Glossary
 Each occurrence of technical terms, domain and acronyms are marked with a "G" in subscript.
 
