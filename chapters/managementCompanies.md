@@ -15,5 +15,5 @@ To open this page, you need to click on the company's name in the *Show Companie
 ![](../img/addMemberToCompany.png)
 
 ## Remove member from a company
-To open this page, you need to click on the company's name in the *Show Companies* page and click in the button *Remove* next to the member in the list.
+To open this page, you need to click on the company's name in the *Show Companies* page and click on the button *Remove* next to the member in the list.
 
