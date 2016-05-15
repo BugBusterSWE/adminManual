@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Preface](README.md)
 * [Introduction](chapters/introduction.md)
 
