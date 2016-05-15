@@ -8,6 +8,7 @@ Clicking on a company name, you can see the button to remove it from Maas.
 
 ## Show company's members
 To open this page, you need to click on the company's name in the *Show Companies* page.
+The list of members will be shown in tabular form
 
 ## Add member to a company
 To open this page, you need to click on the company's name in the *Show Companies* page and clicl on *Add member*.
