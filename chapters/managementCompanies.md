@@ -7,10 +7,14 @@ The Show Company button in the menu allows you to give access to all companies r
 Clicking on a company name, you can see the button to remove it from Maas.
 
 ## Show company's members
-Clicking on a company name, you can view all its members, add one or remove it.
+To open this page, you need to click on the company's name in the Show Companies page.
 
 ## Add member to a company
-To open this page, you need to click on the company's name in the Show Companies page.
-As illustrated in Figure 3, you will be asked to enter an e-mail (1) , a password (2), a rule (3) and click the Add button (4). After add member process is finished, the admin is redirected to the Show companies page. 
+To open this page, you need to click on the company's name in the *Show Companies* page and clicl on *Add member*.
+As illustrated in Figure 3, you will be asked to enter an e-mail (1) , a password (2), a rule (3) and click the Add button (4). After add member process is finished, the admin is redirected to the *Show companies* page. 
 ![](../img/addMemberToCompany.png)
+
+## Remove member from a company
+To open this page, you need to click on the company's name in the *Show Companies* page and click in the button *Remove* next to the member in the list.
+In this
 
