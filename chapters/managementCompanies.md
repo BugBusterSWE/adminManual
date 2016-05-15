@@ -4,8 +4,8 @@ The Show Company button in the menu allows you to give access to all companies r
 ![](../img/showCompanies.png)
 
 ## Remove a company
-Clicking on a company name, you can see the button to remove it from Maas
+Clicking on a company name, you can see the button to remove it from Maas.
 
 ## Show company's members
-Clicking on a company name, you can view all its members
+Clicking on a company name, you can view all its members.
 
