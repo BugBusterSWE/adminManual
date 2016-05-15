@@ -9,6 +9,5 @@ data.
 ## Prerequisites
 The user must have an Internet connection, and a web browser. Supported browser are, at the time of writing, Google Chrome (minimum version: 49) and Mozilla Firefox (minimum version: 45).
 
-
 ## Glossary
 Each occurrence of technical terms, domain and acronyms are marked with a "G" in subscript.
