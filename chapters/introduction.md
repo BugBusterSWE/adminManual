@@ -9,18 +9,6 @@ data.
 ## Prerequisites
 The user must have an Internet connection, and a web browser. Supported browser are, at the time of writing, Google Chrome (minimum version: 49) and Mozilla Firefox (minimum version: 45).
 
-## How to report problems and malfunctions
-In case of problems and malfunctions refer to the webmaster. The message subject will
-be concise and descriptive of the problem. The problem description should contain
-the following points:
-
-1. Contact of the person who reported the problem;
-2. Time reference;
-3. Actions and pages where the problem was found;
-4. The error code, if displayed;
-5. Any additional note that could be useful to the understanding of the problem.
-
-
 
 ## Glossary
 Each occurrence of technical terms, domain and acronyms are marked with a "G" in subscript.
