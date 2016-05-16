@@ -4,7 +4,7 @@ The *Show companies* button in the menu bar allows you to give access to all com
 ![](../img/showCompanies.png)
 
 ## Remove a company
-By clicking on a company name, you can see the button to remove it from MaaS.
+By clicking on a company name, you can see the delete button that allows you to delete the company.
 
 ## Show company's members
 To open this page, you need to click on the name of the company in the *Show Companies* page.
