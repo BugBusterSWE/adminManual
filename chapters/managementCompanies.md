@@ -1,7 +1,8 @@
 # Companies management
 ## Show all companies
-The *Show companies* button in the menu bar allows you to give access to all companies recorded in MaaS. The list of companies will be shown in tabular form.
-![](../img/showCompanies.png)
+The *Show companies* button in the menu bar allows you to give access to all companies recorded in MaaS. The list of companies will be shown in tabular form. In this page you can see, for each company, the owner. You can also change the name of the company (1). A click on the name of a company (2) will redirect you to a page which contains the list of all the members of that company (see the Company page section for more details).
+
+
 
 ## Remove a company
 By clicking on a company name, you can see the delete button that allows you to remove the company.
