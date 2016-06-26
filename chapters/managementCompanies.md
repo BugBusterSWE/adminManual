@@ -14,7 +14,8 @@ The list of members will be shown in tabular form. A click on "Add member" will 
 ![](showMemebers.png)
 
 ## Add member to a company
-To open this page, you need to click on the name of the company in the *Show Companies* page and click on *Add member*. As illustrated in figure below, you will be asked to enter an e-mail (1) , a password (2), a role (3) and click on the *Add* button (4). When this operation has been completed, the super admin is redirected to the *Show companies* page. If the operetion succeed, the member will be added to the selected company, and you can see him/her in the "*Show company's members*" page described above.
+To open this page, you need to click on the name of the company in the *Show Companies* page and click on *Add member*. As illustrated in figure below, you will be asked to enter an e-mail (1) , a password (2), a role (3) and click on the *Add* button (4). The available roles are **Guest**, **Member** and **Admin**.
+When this operation has been completed, the super admin is redirected to the *Show companies* page. If the operetion succeed, the member will be added to the selected company, and you can see him/her in the "*Show company's members*" page described above.
 
 ![](../img/addMemberToCompany.png)
 
