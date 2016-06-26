@@ -5,7 +5,7 @@ The *Show companies* button in the menu bar allows you to give access to all com
 TODO immagine showCompanies.png
 
 ## Remove a company
-By clicking on a company name, you can see the delete button that allows you to remove the company.
+By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeed the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
 
 ## Show company's members
 To open this page, you need to click on the name of the company in the *Show Companies* page.
