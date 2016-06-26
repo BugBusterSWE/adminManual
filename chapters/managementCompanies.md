@@ -9,7 +9,7 @@ By clicking on a company name, you can see the delete button that allows you to 
 
 ## Show company's members
 To open this page, you need to click on the name of the company in the *Show Companies* page.
-The list of members will be shown in tabular form. A click on "Add member" will redirect you to the *Add memeber* page, in witch you can add a member to the selected company.
+The list of members will be shown in tabular form. A click on "Add member" will redirect you to the *Add member* page, in witch you can add a member to the selected company.
 
 ![](showMemebers.png)
 
