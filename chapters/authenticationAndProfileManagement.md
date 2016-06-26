@@ -11,4 +11,4 @@ In case the user has lost his/her password, it's possible to recover the passwor
 You will have to fill out a form. In this form you should insert your registration email and click on the *Reset Password* button. An email containing more instructions will be sent to the previously inserted address.
 
 ## Access and change personal profile
-In order to access the profile's edit page, click on the email address on the menu bar and select *Profile*. Here you can modify your email address and password.
+In order to access the profile's edit page, click on the email address on the menu bar and select *Profile*. Here you can change your email address and password.
