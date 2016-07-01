@@ -19,6 +19,3 @@ When this operation has been completed, the super admin is redirected to the *Sh
 
 ![](../img/addMemberToCompany.png)
 
-## Remove member from a company
-To open this page, you need to click on the company's name in the *Show Companies* page and click on the button *Remove* next to the member in the list. If the operation succeed the user is removed from the company, and you will no more see him/her in the "*Show company's members*" page described above.
-
