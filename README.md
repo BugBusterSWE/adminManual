@@ -8,9 +8,7 @@ This is the MaaS admin manual. Here you can learn how to manage MaaS companies a
 ### Document informations
 
  **Version**:  2.0.0
- 
  **Editorial staff**: BugBusters 
- 
 **Target users**: MaaS super admins
 
 
