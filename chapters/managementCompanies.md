@@ -4,6 +4,10 @@ The *Show companies* button in the menu bar allows you to give access to all com
 
 TODO immagine showCompanies.png
 
+## Change company name
+A super admin can edit the name of a company. You have only to insert the new name in the form below, and then click on **UPDATE COMPANY**. If the operation succeed, the name of the company will be updated.
+![](changeCompany.png)
+
 ## Remove a company
 By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeed the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
 
