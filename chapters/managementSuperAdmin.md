@@ -1,6 +1,6 @@
 # Super Admin management
 ## Show super admins
-The *Show Super Admins* button in the menu will show you the list of the super admins of Maas. In theris list there is only the super admin emails, and you can add another super admin by clicking the **ADD NEW SUPERADMIN** button at the end of the list.
+The *Show Super Admins* button in the menu will show you the list of the super admins of Maas. In that list there are only the super admin emails, and you can add another super admin by clicking the **ADD NEW SUPERADMIN** button at the end of the list.
 ![](../img/showSA.png)
 
 ## Add super admin
