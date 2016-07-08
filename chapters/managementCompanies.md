@@ -5,7 +5,7 @@ The *Show companies* button in the menu bar allows you to give access to all com
 TODO immagine showCompanies.png
 
 ## Change company name
-A super admin can edit the name of a company. You have only to insert the new name in the form below, and then click on **UPDATE COMPANY**. If the operation succeed, the name of the company will be updated.
+A super admin can edit the name of a company. You have only to insert the new name in the form below, and then click on **UPDATE COMPANY**. If the operation succeeds, the name of the company will be updated.
 ![](changeCompany.png)
 
 ## Remove a company
