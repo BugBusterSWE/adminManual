@@ -9,11 +9,11 @@ A super admin can edit the name of a company. You have only to insert the new na
 ![](../img/changeCompany.png)
 
 ## Remove a company
-By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeed the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
+By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeeds the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
 
 ## Show company's members
 To open this page, you need to click on the name of the company in the *Show Companies* page.
-The list of members will be shown in tabular form. A click on "Add member" will redirect you to the *Add member* page, in witch you can add a member to the selected company. See the "*Add member to a company*" page for more details.
+The list of members will be shown in tabular form. A click on "Add member" will redirect you to the *Add member* page, in which you can add a member to the selected company. See the "*Add member to a company*" page for more details.
 
 ![](showMemebers.png)
 
