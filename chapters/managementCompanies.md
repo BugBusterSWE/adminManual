@@ -2,11 +2,11 @@
 ## Show all companies
 The *Show companies* button in the menu bar allows you to give access to all companies recorded in MaaS. The list of companies will be shown in tabular form. In this page you can see, for each company, the owner. You can also change the name of the company (1). A click on the name of a company (2) will redirect you to a page which contains the list of all the members of that company (see the "*Show company's members*" section for more details).
 
-TODO immagine showCompanies.png
+![](../img/showCompanies.png)
 
 ## Change company name
 A super admin can edit the name of a company. You have only to insert the new name in the form below, and then click on **UPDATE COMPANY**. If the operation succeeds, the name of the company will be updated.
-![](changeCompany.png)
+![](../img/changeCompany.png)
 
 ## Remove a company
 By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeed the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
