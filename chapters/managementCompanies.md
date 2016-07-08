@@ -11,6 +11,9 @@ A super admin can edit the name of a company. You have only to insert the new na
 ## Remove a company
 By clicking on a company name, you can see the delete button that allows you to remove the company. If the operation succeeds the company is removed from the MaaS platform, and you will no more see it in the *Show all companies* page described above.
 
+##Add a new company
+In order to add a new company you have to insert some information, in particular: *Name* (1), *Email* of the owner (2) and *Password of the owner. Finally, click on the **ADD COMPANY** button (4).
+
 ## Show company's members
 To open this page, you need to click on the name of the company in the *Show Companies* page.
 The list of members will be shown in tabular form. A click on "Add member" will redirect you to the *Add member* page, in which you can add a member to the selected company. See the "*Add member to a company*" page for more details.
