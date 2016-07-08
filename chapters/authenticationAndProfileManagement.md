@@ -14,7 +14,7 @@ You will have to fill out a form. In this form you should insert your registrati
 In order to access the profile's edit page, click on the email address on the menu bar and select *Profile*. Here the user can modify his/her email address and password.
 The first section shown is the **Show Profile** section. Here you can see your email (1).
 ![](../img/showProfile.png)
-You can also change your email address or your login password clicking on *CHANGE EMAIL* (2) or *CHANGE PASSWORD* buttons on the **Edit profile** section. In both cases you will see a simple form which allows to you to change the selected data.
+You can also change your email address or your login password clicking on *CHANGE EMAIL* (2) or *CHANGE PASSWORD* buttons on the **Edit profile** section. In both cases you will see a simple form which allows you to change the selected data.
 ![](../img/changeProfile.png)
 In particular, the *CHANGE EMAIL* form will be the following:
 ![](../img/changeEmail.png)
